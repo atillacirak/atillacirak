@@ -1,4 +1,4 @@
-### Hi buddies!
+### Hello world!
 
 I'm Atilla Çırak. An Electrical Engineering Student at Ozyegin University.
 
