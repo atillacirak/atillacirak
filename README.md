@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm self-learning game developer from Turkey.<br><br>- 🔭 I’m studying at Ozyegin University.<br>- 📖 I’m currently taking Kodluyoruz | Introduction to Coding - Game Developing<br>- 📚 I'm currently learning Unity and C.<br>- ⚡ In my free time I play games and make music.</p>
+<p align="left">I'm self-learning game developer from Turkey.<br><br>- 🔭 I’m studying at Ozyegin University.<br>- 📖 I’m currently taking Kodluyoruz | Introduction to Coding - Game Developing course.<br>- 📚 I'm currently learning Unity and C.<br>- ⚡ In my free time I play games and make music.</p>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats</h3>
+<h3 align="left">🔥  My Stats</h3>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h3 align="left">🎵 Let's get some music in the vein</h3>
+<h3 align="left">🎶  Music heals the soul</h3>
 
 ###
 
