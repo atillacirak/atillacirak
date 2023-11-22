@@ -29,6 +29,10 @@
 
 ###
 
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1007287677181239377/1071583865233219645/kiripat.gif?ex=656bc7be&is=655952be&hm=766d06917b9d83ca4ccd2a3793d6a8359e633f1011c32bd5fe52aa8bce04b8a3&"  />
+
+###
+
 <p align="left">I'm self-learning game developer from Turkey.<br><br>- 🔭 I’m studying at Ozyegin University.<br>- 📖 I’m currently taking Kodluyoruz | Introduction to Coding - Game Developing<br>- 📚 I'm currently learning Unity and C.<br>- ⚡ In my free time I play games and make music.</p>
 
 ###
@@ -69,12 +73,6 @@
   <a href="https://open.spotify.com/user/5aju866j89audp4l5v1b07r83">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=5aju866j89audp4l5v1b07r83&count=5" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1007287677181239377/1071583865233219645/kiripat.gif?ex=656bc7be&is=655952be&hm=766d06917b9d83ca4ccd2a3793d6a8359e633f1011c32bd5fe52aa8bce04b8a3&"  />
 </div>
 
 ###
