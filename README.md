@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" src="https://i.ibb.co/xsRssr3/kiribattaniy-transformed.png"  />
+  <img height="180" src="https://iili.io/JooXE9R.png"  />
 </div>
 
 ###
